@@ -84,20 +84,6 @@ pip install numpy pandas librosa scikit-learn matplotlib seaborn xgboost soundfi
 
 ---
 
-## 📅 Project Structure
-
-```
-voice_emotion_project/
-├── voice_emotion.ipynb
-├── audio_data/
-│   └── *.wav
-├── extracted_features.csv
-├── model/
-│   └── trained_model.pkl
-└── README.md
-```
-
----
 
 ## 🙋‍♂️ Contributors
 
